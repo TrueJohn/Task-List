@@ -1,2 +1,2 @@
-# Site
-Site made with CSS , JS and HTML.
+# Task List
+An simple Task Listmade with CSS , JS and HTML.
